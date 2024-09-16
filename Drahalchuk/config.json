@@ -1,0 +1,9 @@
+{
+    "text_file": "Drahalchuk/text.txt",
+    "target_language": "en",
+    "output": "file",
+    "max_characters": 1000,
+    "max_words": 200,
+    "max_sentences": 10
+}
+  

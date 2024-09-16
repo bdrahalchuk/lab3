@@ -1,0 +1,135 @@
+N   Language             ISO-639    Text
+-----------------------------------------------------
+1   afrikaans            af         Hallo
+2   albanian             sq         Përshëndetje
+3   amharic              am         ሃሎ
+4   arabic               ar         مرحبا
+5   armenian             hy         Բարև ձեզ
+6   assamese             as         হালো
+7   aymara               ay         Hallo
+8   azerbaijani          az         salam
+9   bambara              bm         Hallo
+10  basque               eu         Kaixo
+11  belarusian           be         прывітанне
+12  bengali              bn         হ্যালো
+13  bhojpuri             bho        हलो के बा
+14  bosnian              bs         Zdravo
+15  bulgarian            bg         здравей
+16  catalan              ca         Hola
+17  cebuano              ceb        Hello
+18  chichewa             ny         Halo
+19  chinese (simplified) zh-CN      你好
+20  chinese (traditional) zh-TW      你好
+21  corsican             co         Salutu
+22  croatian             hr         zdravo
+23  czech                cs         Dobrý den
+24  danish               da         Hej
+25  dhivehi              dv         ހައްލޯ
+26  dogri                doi        हलो
+27  dutch                nl         Hallo
+28  english              en         Hallo
+29  esperanto            eo         Saluton
+30  estonian             et         Tere
+31  ewe                  ee         Hallo
+32  filipino             tl         Hello
+33  finnish              fi         Haloo
+34  french               fr         Bonjour
+35  frisian              fy         Hallo
+36  galician             gl         Ola
+37  georgian             ka         გამარჯობა
+38  german               de         Hallo
+39  greek                el         Γεια σου
+40  guarani              gn         Hallo
+41  gujarati             gu         હેલો
+42  haitian creole       ht         Alo
+43  hausa                ha         Hallo
+44  hawaiian             haw        Aloha
+45  hebrew               iw         שלום
+46  hindi                hi         अभिनंदन
+47  hmong                hmn        Hallo
+48  hungarian            hu         Halló
+49  icelandic            is         Halló
+50  igbo                 ig         Ndewo
+51  ilocano              ilo        Hallo
+52  indonesian           id         Halo
+53  irish                ga         Hallo
+54  italian              it         Ciao
+55  japanese             ja         こんにちは
+56  javanese             jw         Halo
+57  kannada              kn         ಹಲೋ
+58  kazakh               kk         Сәлем
+59  khmer                km         សួស្តី
+60  kinyarwanda          rw         Hallo
+61  konkani              gom        हॅलो हें नांव
+62  korean               ko         어이
+63  krio                 kri        Hallo
+64  kurdish (kurmanji)   ku         Hallo
+65  kurdish (sorani)     ckb        هالۆ
+66  kyrgyz               ky         Салам
+67  lao                  lo         ສະບາຍດີ
+68  latin                la         Hallo
+69  latvian              lv         Sveiki
+70  lingala              ln         Hallo
+71  lithuanian           lt         Sveiki
+72  luganda              lg         Hallo
+73  luxembourgish        lb         Hallo
+74  macedonian           mk         Здраво
+75  maithili             mai        हलो
+76  malagasy             mg         Salama
+77  malay                ms         Hello
+78  malayalam            ml         ഹലോ
+79  maltese              mt         Hallo
+80  maori                mi         Kia ora
+81  marathi              mr         नमस्कार
+82  meiteilon (manipuri) mni-Mtei   ꯍꯜꯂꯣꯏ꯫
+83  mizo                 lus        Hallo
+84  mongolian            mn         Сайн уу
+85  myanmar              my         မင်္ဂလာပါ
+86  nepali               ne         नमस्कार
+87  norwegian            no         Hallo
+88  odia (oriya)         or         ହାଲୋ |
+89  oromo                om         Hallo
+90  pashto               ps         هیلو
+91  persian              fa         سلام
+92  polish               pl         Cześć
+93  portuguese           pt         Olá
+94  punjabi              pa         ਹੈਲੋ
+95  quechua              qu         Hallo
+96  romanian             ro         Salut
+97  russian              ru         Привет
+98  samoan               sm         Talofa
+99  sanskrit             sa         हल्लो
+100 scots gaelic         gd         Hallo
+101 sepedi               nso        Hallo
+102 serbian              sr         Здраво
+103 sesotho              st         Hello
+104 shona                sn         Mhoro
+105 sindhi               sd         هيلو
+106 sinhala              si         හලෝ
+107 slovak               sk         Dobrý deň
+108 slovenian            sl         zdravo
+109 somali               so         Hallo
+110 spanish              es         Hola
+111 sundanese            su         Halo
+112 swahili              sw         Habari
+113 swedish              sv         Hallå
+114 tajik                tg         Салом
+115 tamil                ta         ஹலோ
+116 tatar                tt         Халло
+117 telugu               te         హలో
+118 thai                 th         สวัสดี
+119 tigrinya             ti         ሃሎ
+120 tsonga               ts         Hallo
+121 turkish              tr         Merhaba
+122 turkmen              tk         Hallo
+123 twi                  ak         Hallo
+124 ukrainian            uk         привіт
+125 urdu                 ur         ہیلو
+126 uyghur               ug         Hallo
+127 uzbek                uz         Salom
+128 vietnamese           vi         Ê
+129 welsh                cy         Helo
+130 xhosa                xh         Molo
+131 yiddish              yi         העלא
+132 yoruba               yo         Hallo
+133 zulu                 zu         Sawubona
